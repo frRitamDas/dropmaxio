@@ -1,0 +1,7 @@
+{
+  "name": "dropmax.io-clone",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
