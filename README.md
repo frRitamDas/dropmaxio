@@ -1,4 +1,4 @@
-# dropmax.io - Standalone Offline Copy
+# EditMax - Standalone Offline Copy
 
 Exported standalone website bundle.
 
