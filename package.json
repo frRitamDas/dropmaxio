@@ -1,5 +1,5 @@
 {
-  "name": "dropmax.io-clone",
+  "name": "editmax",
   "version": "1.0.0",
   "scripts": {
     "start": "npx serve ."
